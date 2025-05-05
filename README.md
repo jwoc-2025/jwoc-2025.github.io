@@ -18,31 +18,29 @@ Topics of interest include, but are not limited to:
 
 
 ## Important Dates
-* Submission Deadline: 25 August 2024
-* Notification to authors: 13 September 2024
-* Registration: 19 September 2024
-* **Conference: 26-27 September 2024**
+* Submission Deadline: 25 August 2025
+* Notification to authors: 13 September 2025
+* Registration: 19 September 2025
+* **Conference: 3 October 2025**
 
 All deadlines are 23:59 AoE (UTC-12)
 
 ## Keynotes
-* **Alessandra Carbone**, *Sorbonne University* - Deep Learning in protein-protein interactions
-* **Anthony Countant**, *HephIA* - Trajectoire d'une Startup Deep Tech en IA : De l'IA exploratoire pour les industries à l'IA générative pour le droit
-* **Harley Davis**, *Athena Decision Systems* - AI Agent Precision: Maximizing decision accuracy with business rules integration
-* **Ioana Manolescu**, *Inria* - Data and IA techniques for Fact-checking and Investigative journalism
+* **Full Name**, *School* - Topic title
 
 More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers).
 
 ## Organization Committee
 ### Junior Committee
-* **Zoé Chevallier**, *Université de Versailles Paris-Saclay*
-* **Kevin Dradjat**, *Université d'Evry Paris-Saclay*
+* **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Lucas Foissey,**, *Université d'Evry Paris-Saclay*
+* **Nicolas Le Gouic,**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Diane Prato**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Ambashri Purkayastha,**, *Télécom Paris, Institut Polytechnique de Paris*
 ### Senior Committee 
-* **Radu-Alexandru Dragomir**, *Télécom Paris, Institut Polytechnique de Paris*
-* **Clément Fisher**, *CEA, Université Paris-Saclay*
-* **Massinissa Hamidi**, *Université d'Evry Paris-Saclay*
+* **Cédric Adjih**, *INRIA*
+* **Juan Rafael Alvarez,**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Michel Kieffer**, *Université Paris-Saclay*
-* **Nicolas Lerme**, *Université Paris-Saclay*
+* **Marwane Rezzouki**, *Université Paris-Saclay*
 ### Local Arrangement
 * **Marie Laveau**, *Université Paris-Saclay*
-* **Almira Musa**, *Université Paris-Saclay*
