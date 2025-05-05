@@ -1,4 +1,5 @@
-## Description
+<!-- ## Description -->
+<h2 style="color:#c0392b;">Description</h2>
 
 The 7th edition of the **Junior Conference on Wireless and Optical Communication (JWOC)** is a unique opportunity for **Master's students** and **early-stage PhD researchers** to present their ongoing work in the fields of wireless and optical communication, networking, machine learning, security, and IoT. Whether you're sharing preliminary results or showcasing a complete study, JWOC provides a supportive environment to develop your scientific communication skills. Keynote talks by leading researchers from academia and industry will offer valuable insights and help you start building your professional network. This event is co-organised by **Université Paris-Saclay (UPSaclay)** and **Institut Polytechnique de Paris (IPP)**. <br>
 
