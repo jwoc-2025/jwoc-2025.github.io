@@ -10,7 +10,8 @@
   background-position: center; // Centers the image
   width: 100%; // Full width of the container
   height: auto; // Allows height to adjust automatically
-  padding-top: 30%; // Controls the height proportionally to the width
+  padding-top: 56.25%; // 16:9 aspect ratio (height/width * 100)
+  //padding-top: 30%; // Controls the height proportionally to the width
 }
 
 #menu {
