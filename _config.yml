@@ -13,4 +13,4 @@ plugins:
 - jekyll-remote-theme 
 
 title: [Junior Conference on Wireless and Optical Communication (JWOC)]
-description: [Junior Conference on Wireless and Optical Communication (JWOC)]
+# description: [Junior Conference on Wireless and Optical Communication (JWOC)]
