@@ -1,6 +1,6 @@
 layout: page
-title: "JDSE 2024"
-permalink: /jdse2024
+title: "JWOC 2025"
+permalink: /jwoc2025
 
 
-Junior Conference on Data Science and Engineering (JDSE)
+Junior Conference on Wireless and Optical Communication (JWOC)
