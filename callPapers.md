@@ -1,8 +1,8 @@
 ## Important Dates
-* Submission Deadline: 25 August 2024
-* Notification to authors: 13 September 2024
-* Registration: 19 September 2024
-* **Conference: 26-27 September 2024**
+* Submission Deadline: 25 August 2025
+* Notification to authors: 13 September 2025
+* Registration: 19 September 2025
+* **Conference: 3 October 2025**
 
 All deadlines are 23:59 AoE (UTC-12)
 

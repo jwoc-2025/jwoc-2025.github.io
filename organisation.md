@@ -1,13 +1,14 @@
 ## Organization Committee
 ### Junior Committee
-* **Zoé Chevallier**, *Université de Versailles Paris-Saclay*
-* **Kevin Dradjat**, *Université d'Evry Paris-Saclay*
+* **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Lucas Foissey,**, *Université d'Evry Paris-Saclay*
+* **Nicolas Le Gouic,**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Diane Prato**, *Télécom Paris, Institut Polytechnique de Paris*
+* **Ambashri Purkayastha,**, *Télécom Paris, Institut Polytechnique de Paris*
 ### Senior Committee 
-* **Radu-Alexandru Dragomir**, *Télécom Paris, Institut Polytechnique de Paris*
-* **Clément Fisher**, *CEA, Université Paris-Saclay*
-* **Massinissa Hamidi**, *Université d'Evry Paris-Saclay*
+* **Cédric Adjih**, *INRIA*
+* **Juan Rafael Alvarez,**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Michel Kieffer**, *Université Paris-Saclay*
-* **Nicolas Lerme**, *Université Paris-Saclay*
+* **Marwane Rezzouki**, *Université Paris-Saclay*
 ### Local Arrangement
 * **Marie Laveau**, *Université Paris-Saclay*
-* **Almira Musa**, *Université Paris-Saclay*
