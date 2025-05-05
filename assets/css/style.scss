@@ -3,16 +3,27 @@
 
 @import 'jekyll-theme-cayman';
 
-.page-header{
-  background-image: url("../../Images/JWOC_banner_5.png");
-//   background-size: cover;
-	background-size: contain;         /* show full image */
-	background-repeat: no-repeat;
-	background-position: center;
-	width: 100%;
-	height: auto;
-	padding-top: 30%;                 /* adjust this % to control height */
+// .page-header{
+//   background-image: url("../../Images/JWOC_banner_5.png");
+// //   background-size: cover;
+// }
 
+<div class="page-header">
+  <img src="/Images/JWOC_banner_5.png" alt="JWOC banner" class="jwoc-banner">
+</div>
+
+.page-header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem;
+	background: white; /* or any background */
+}
+  
+.jwoc-banner {
+	max-width: 100%;
+	height: auto;
+	display: block;
 }
 
 #menu {
