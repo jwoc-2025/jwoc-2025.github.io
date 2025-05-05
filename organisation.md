@@ -1,4 +1,5 @@
-## Organization Committee
+<!-- ## Organization Committee -->
+<h2 style="color:#c0392b;">Organisation Committee</h2>
 <!-- ### Junior Committee -->
 <h2 style="color:#c0392b;">Junior Committee</h2>
 * **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*

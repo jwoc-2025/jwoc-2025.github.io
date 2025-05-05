@@ -3,7 +3,8 @@
 
 You can find the slides used during the presentations on this link : [https://drive.google.com/drive/folders/1RuHKvWU1VlZR-C2ewCzA_AV3XDZlfgzw?usp=sharing](https://drive.google.com/drive/folders/1RuHKvWU1VlZR-C2ewCzA_AV3XDZlfgzw?usp=sharing)
 
-## Thursday 26th September
+<!-- ## Thursday 26th September -->
+<h2 style="color:#c0392b;">Thursday 26th September</h2>
 * 08:45 - 09:15 Coffee & Registration
 * 09:15 - 09:30 Opening speech
 * 09:30 - 10:30 Keynote: **Deep Learning in protein-protein interactions**, *Alessandra Carbone*, Professor, Sorbonne Université
@@ -33,7 +34,8 @@ You can find the slides used during the presentations on this link : [https://dr
     * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_24.pdf) Named Entity Extraction in Connection Lens Based on Large Language Models, *Minh Hoang Duong, Ioana Manolescu*
 
 
-## Friday 27th September
+<!-- ## Friday 27th September -->
+<h2 style="color:#c0392b;">Friday 27th September</h2>
 * 09:00 - 9:15 Coffee viennoiseries & Registration
 * 9:15 - 10h15 Keynote: **Data and AI techniques for Fact-checking and Investigative journalism**, *Ioana Manolescu*, Senior Researcher, INRIA
 * 10:15 - 10:45 Coffee break
