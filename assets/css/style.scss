@@ -100,6 +100,11 @@
 	color: #B396EC;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	color: #c0392b; /* warm red or use your preferred color */
+  }
+  
+
 @media screen and (max-width: 800px){
 	#menu {position:relative}
 	#menu ul {background:#444444;position:absolute;top:100%;right:0;left:0;z-index:3;height:auto;display:none;text-align:left;}

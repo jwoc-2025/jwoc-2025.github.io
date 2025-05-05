@@ -33,7 +33,7 @@ More informations about the speakers [here](https://zoechevallier1.github.io/jds
 ## Organization Committee
 ### Junior Committee
 * **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*
-* **Lucas Foissey,**, *Université d'Evry Paris-Saclay*
+* **Lucas Foissey,**, *Université Paris-Saclay*
 * **Nicolas Le Gouic,**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Diane Prato**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Ambashri Purkayastha,**, *Télécom Paris, Institut Polytechnique de Paris*
