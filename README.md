@@ -18,7 +18,8 @@ Topics of interest include, but are not limited to:
 * Source and Channel Coding
 
 
-## Important Dates
+<!-- ## Important Dates -->
+<h2 style="color:#c0392b;">Important Dates</h2>
 * Submission Deadline: 25 August 2025
 * Notification to authors: 13 September 2025
 * Registration: 19 September 2025
@@ -26,22 +27,27 @@ Topics of interest include, but are not limited to:
 
 All deadlines are 23:59 AoE (UTC-12)
 
-## Keynotes
+<!-- ## Keynotes -->
+<h2 style="color:#c0392b;">Keynotes</h2>
 * **Full Name**, *School* - Topic title
 
 More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers).
 
-## Organization Committee
-### Junior Committee
+<!-- ## Organization Committee -->
+<h2 style="color:#c0392b;">Organisation Committee</h2>
+<!-- ### Junior Committee -->
+<h2 style="color:#c0392b;">Junior Committee</h2>
 * **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Lucas Foissey,**, *Université Paris-Saclay*
 * **Nicolas Le Gouic,**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Diane Prato**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Ambashri Purkayastha,**, *Télécom Paris, Institut Polytechnique de Paris*
-### Senior Committee 
+<!-- ### Senior Committee  -->
+<h2 style="color:#c0392b;">Senior Committee</h2>
 * **Cédric Adjih**, *INRIA*
 * **Juan Rafael Alvarez,**, *Télécom Paris, Institut Polytechnique de Paris*
 * **Michel Kieffer**, *Université Paris-Saclay*
 * **Marwane Rezzouki**, *Université Paris-Saclay*
-### Local Arrangement
+<!-- ### Local Arrangement -->
+<h2 style="color:#c0392b;">Local Arrangement</h2>
 * **Marie Laveau**, *Université Paris-Saclay*

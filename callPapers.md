@@ -1,4 +1,5 @@
-## Important Dates
+<!-- ## Important Dates -->
+<h2 style="color:#c0392b;">Important Dates</h2>
 * Submission Deadline: 25 August 2025
 * Notification to authors: 13 September 2025
 * Registration: 19 September 2025

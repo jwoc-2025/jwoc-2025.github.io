@@ -1,4 +1,5 @@
-## Keynotes
+<!-- ## Keynotes -->
+<h2 style="color:#c0392b;">Keynotes</h2>
 
 * **Alessandra Carbone**, *Sorbonne University* - Professor in Computer Science at Sorbonne Université - Head of the Laboratory of Computational and Quantitative Biology (LCQB) <br>
 <ins>Title</ins>: Deep Learning in protein-protein interactions <br>
