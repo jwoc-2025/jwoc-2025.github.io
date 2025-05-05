@@ -9,8 +9,8 @@
 	background-size: contain;         /* show full image */
 	background-repeat: no-repeat;
 	background-position: center;
-	width: 100%;
-	height: auto;
+	width: 100vw; // Full width of the viewport
+  	height: 33vh; // One-third of the viewport height
 	padding-top: 30%;                 /* adjust this % to control height */
 
 }
