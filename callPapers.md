@@ -7,4 +7,4 @@
 
 All deadlines are 23:59 AoE (UTC-12)
 
-Click [here](https://openreview.net/group?id=JDSE/2024/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles) to submit a paper
+Click [here](https://openreview.net/group?id=JWOC/2025/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles) to submit a paper
