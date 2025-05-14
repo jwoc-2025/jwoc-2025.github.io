@@ -31,7 +31,7 @@ All deadlines are 23:59 AoE (UTC-12)
 <h2 style="color:#c0392b;">Keynotes</h2>
 * **Full Name**, *School* - Topic title
 
-More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers).
+More informations about the speakers [here](https://jwoc-2025.github.io/speakers).
 
 <!-- ## Organization Committee -->
 <h2 style="color:#c0392b;">Organisation Committee</h2>
