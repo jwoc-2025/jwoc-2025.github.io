@@ -30,7 +30,7 @@ All deadlines are 23:59 AoE (UTC-12)
 <!-- ## Keynotes -->
 <h2 style="color:#c0392b;">Keynotes</h2>
 
-* **Marco Di Renzo**, *CentraleSupélec, Paris-Saclay University (France)* - CNRS Research Director, *King's College London (UK)* - Professor of Telecommunications Engineering - Reconfigurable Intelligent and Holographic Surfaces for Wireless Communications <br>
+* **Marco Di Renzo**, *CentraleSupélec, Paris-Saclay University (France)* - CNRS Research Director, *King's College London (UK)* - Professor of Telecommunications Engineering : Reconfigurable Intelligent and Holographic Surfaces for Wireless Communications <br>
 
 More informations about the speakers [here](https://jwoc-2025.github.io/speakers).
 
