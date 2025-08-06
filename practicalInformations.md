@@ -1,1 +1,1 @@
-The conference will take place at: Bâtiment 660, Avenue des Sciences, 91190, Gif-sur-Yvette (https://maps.app.goo.gl/bYHPXt3mS89jBxNE7).
+The conference will take place at: Télécom Paris, 19 place Marguerite Perey, 91120 - Palaiseau (https://maps.app.goo.gl/yWwKNdCiUB9J3bYx8).
