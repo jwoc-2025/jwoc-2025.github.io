@@ -20,7 +20,7 @@ Topics of interest include, but are not limited to:
 
 <!-- ## Important Dates -->
 <h2 style="color:#c0392b;">Important Dates</h2>
-* Submission Deadline: 25 August 2025
+* Submission Deadline: <s> 25 August 2025</s> Extended: 7 September 2025
 * Notification to authors: 13 September 2025
 * Registration: 19 September 2025
 * **Conference: 3 October 2025**
