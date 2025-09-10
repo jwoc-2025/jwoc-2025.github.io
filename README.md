@@ -38,6 +38,9 @@ All deadlines are 23:59 AoE (UTC-12)
 
 * **Marco Di Renzo**, *CentraleSupélec, Paris-Saclay University (France)* - CNRS Research Director, *King's College London (UK)* - Professor of Telecommunications Engineering : Reconfigurable Intelligent and Holographic Surfaces for Wireless Communications <br>
 
+* **Roya Gholamipourfard**, *Nokia Bell Labs (France)* - Research Scientist : Beyond Capacity Limits: The Role of Spatial-Division Multiplexing (SDM) and Hollow-Core Fiber (HCF) in Future Optical Communications<br>
+
+
 More informations about the speakers [here](https://jwoc-2025.github.io/speakers).
 
 <!-- ## Organization Committee -->
