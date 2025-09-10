@@ -5,7 +5,6 @@ The 7th edition of the **Junior Conference on Wireless and Optical Communication
 
 
 * Date and Location: <span style="color:#c0392b;">3 October, 2025, at Télécom Paris.</span>
-<br>
 * Register <a href="https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t">here</a> before 26 September 2025.
 <br>
 
