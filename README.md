@@ -28,6 +28,7 @@ Topics of interest include, but are not limited to:
 <h2 style="color:#c0392b;">Important Dates</h2>
 * Submission Deadline: <s> 25 August 2025</s> Extended: 7 September 2025
 * Notification to authors: 13 September 2025
+* Registration: <s>19 September 2025</s> Extended: 26 September 2025, <a href="https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t">registration link</a>.
 * **Conference: 3 October 2025**
 
 All deadlines are 23:59 AoE (UTC-12)
