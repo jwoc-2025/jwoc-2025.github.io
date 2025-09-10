@@ -30,6 +30,7 @@ Topics of interest include, but are not limited to:
 * Notification to authors: 13 September 2025
 * Registration: <s>19 September 2025</s> Extended: 26 September 2025, <a href="https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t">(register here)</a>
 * **Conference: 3 October 2025**
+* Location: Télécom Paris, 19 place Marguerite Perey, 91120 - Palaiseau [Location](https://maps.app.goo.gl/yWwKNdCiUB9J3bYx8)
 
 All deadlines are 23:59 AoE (UTC-12)
 
