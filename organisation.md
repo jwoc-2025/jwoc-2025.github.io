@@ -8,7 +8,7 @@
 - **Ambashri Purkayastha**, *Télécom Paris, Institut Polytechnique de Paris*
 
 ### Senior Committee
-- **Cédric Adjih**, *INRIA*
+- **Cédric Adjih**, *Inria*
 - **Juan Rafael Alvarez**, *Télécom Paris, Institut Polytechnique de Paris*
 - **Michel Kieffer**, *Université Paris-Saclay*
 - **Marwane Rezzouki**, *Université Paris-Saclay*
