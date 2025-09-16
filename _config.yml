@@ -1,17 +1,27 @@
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# [CA: sept 2025 - version cleaned by LLM:]
+# --- Site basics ---
+title: "Junior Conference on Wireless and Optical Communication (JWOC)"
+description: "The conference will be held on the 3rd of October 2025, at Télécom Paris."
+url: "https://jwoc-2025.github.io"   # no trailing slash
+baseurl: ""                          # for project site at the root; set to "/<repo>" if needed
+
+# --- Theme & plugins (GitHub Pages compatible) ---
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-title: [Junior Conference on Wireless and Optical Communication (JWOC)]
-description : The conference will be held on the 3rd of october 2025, at Télécom Paris.
-# description: [Junior Conference on Wireless and Optical Communication (JWOC)]
+# --- Markdown / code ---
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  auto_ids: true
+
+# --- Build flags (GitHub Pages ignores some of these anyway) ---
+# safe is forced to true on GitHub Pages; no need to set it.
+# 'source' should NOT be set to a placeholder; remove it.
+lsi: false
+incremental: false
