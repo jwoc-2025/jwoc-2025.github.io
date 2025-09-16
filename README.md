@@ -4,7 +4,7 @@ The 7th edition of the **Junior Conference on Wireless and Optical Communication
 
 - **Date and Location:** 3 October 2025, at [Télécom Paris]({{ "/practicalInformations" | relative_url }})
 - **Registration:** [Register here](https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t) before 26 September 2025  
-- **[Program]({{ "/program" | relative_url }})**
+- **Program:** available [here]({{ "/program" | relative_url }})**
 
 We invite **second-year Master's students** and **first/second-year PhD students** from UPSaclay and IPP to submit extended abstracts and present their current research at JWOC 2025. Ongoing work with preliminary results is highly encouraged.  
 
