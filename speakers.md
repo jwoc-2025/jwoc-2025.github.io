@@ -1,10 +1,9 @@
-<!-- ## Keynotes -->
-<h2 style="color:#c0392b;">Keynotes</h2>
+## Keynotes
 
-**On this page:** [Marco Di Renzo](#marco-di-renzo) • [Roya Gholamipourfard](#roya-gholamipourfard)
+**On this page:** [Prof. Marco Di Renzo](#marco-di-renzo) • [Dr. Roya Gholamipourfard](#roya-gholamipourfard)
 
 
-### • Marco Di Renzo {#marco-di-renzo}
+### • Prof. Marco Di Renzo {#marco-di-renzo}
 *CentraleSupélec, Paris-Saclay University (France) — CNRS Research Director; King's College London (UK) — Professor of Telecommunications Engineering*
 
 **Title:** Reconfigurable Intelligent and Holographic Surfaces for Wireless Communications
@@ -13,7 +12,7 @@
 
 **Biography:** Marco Di Renzo (Fellow, IEEE) received the Laurea (cum laude) and Ph.D. degrees in electrical engineering from the University of L’Aquila, Italy, in 2003 and 2007, respectively, and the Habilitation à Diriger des Recherches (Doctor of Science) degree from University Paris-Sud (currently Paris-Saclay University), France, in 2013. Currently, he is a CNRS Research Director (Professor) and the Head of the Intelligent Physical Communications group with the Laboratory of Signals and Systems (L2S) at CNRS & CentraleSupélec, Paris-Saclay University, Paris, France, as well as a Chair Professor in Telecommunications Engineering with the Centre for Telecommunications Research - Department of Engineering, King’s College London, London, United Kingdom. He was a France-Nokia Chair of Excellence in ICT at the University of Oulu (Finland), a Tan Chin Tuan Exchange Fellow in Engineering at Nanyang Technological University (Singapore), a Fulbright Fellow at The City University of New York (USA), a Nokia Foundation Visiting Professor at Aalto University (Finland), and a Royal Academy of Engineering Distinguished Visiting Fellow at Queen’s University Belfast (U.K.). He is a Fellow of the IEEE, IET, EURASIP, and AAIA; an Academician of AIIA; an Ordinary Member of the European Academy of Sciences and Arts, an Ordinary Member of the Academia Europaea; an Ambassador of the European Association on Antennas and Propagation; and a Highly Cited Researcher. His recent research awards include the Michel Monpetit Prize conferred by the French Academy of Sciences, the IEEE Communications Society Heinrich Hertz Award, and the IEEE Communications Society Marconi Prize Paper Award in Wireless Communications. He served as the Editor-in-Chief of IEEE Communications Letters from 2019 to 2023. His current main roles within the IEEE Communications Society include serving as a Voting Member of the Fellow Evaluation Standing Committee, as the Chair of the Publications Misconduct Ad Hoc Committee, and as the Director of Journals. Also, he is on the Editorial Board of the Proceedings of the IEEE.
 
-### • Roya Gholamipourfard {#roya-gholamipourfard}
+### • Dr. Roya Gholamipourfard {#roya-gholamipourfard}
 *Nokia Bell Labs (France) — Research Scientist*
 
 **Title:** Beyond Capacity Limits: The Role of Spatial-Division Multiplexing (SDM) and Hollow-Core Fiber (HCF) in Future Optical Communications
@@ -21,3 +20,5 @@
 **Abstract:** The continuous increase in data traffic has pushed conventional single-mode fiber (SMF) systems toward their fundamental capacity limits. Spatial-Division Multiplexing (SDM) has emerged as a promising solution to address these limitations by leveraging the spatial domain as an additional degree of freedom for transmitting independent signals through distinct spatial paths within a common optical fiber. In this way, SDM enables parallel transmission and increases spectral efficiency, making it a strong candidate for scaling capacity in optical communication systems. In contrast, hollow-core fibers (HCFs) provide a distinct approach by guiding light through an air-filled hollow core rather than glass (silica), which significantly reduces nonlinear impairments, lowers latency and losses, and enables high-capacity, low-latency communication. While both SDM and HCF aim to overcome current limitations, each technology has its own advantages, drawbacks, and application domains. This talk will explore these two technologies and their importance in the next generation of high-capacity optical networks.
 
 **Biography:** Roya Gholamipourfard received the B.Sc. and M.Sc. degrees in Electrical Engineering from Shiraz University, Iran, in 2014 and 2017, respectively. She obtained the Ph.D. degree in Telecommunications from Sorbonne University, France, in 2021, with her doctoral research carried out at EURECOM. Her Ph.D. thesis focused on receiver design and channel estimation in cell-free (CF) massive MIMO system. She is currently a Research Scientist in Transmission Systems at the Optical Transmission Department, Nokia Bell Labs, France. Her current research interests include MIMO digital signal processing (DSP) for coherent spatial-division multiplexing (SDM) transmission systems.
+
+---
