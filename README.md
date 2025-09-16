@@ -2,8 +2,9 @@
 
 The 7th edition of the **Junior Conference on Wireless and Optical Communication (JWOC)** is a unique opportunity for **Master's students** and **early-stage PhD researchers** to present their ongoing work in the fields of wireless and optical communication, networking, machine learning, security, and IoT. Whether you're sharing preliminary results or showcasing a complete study, JWOC provides a supportive environment to develop your scientific communication skills. Keynote talks by leading researchers from academia and industry will offer valuable insights and help you start building your professional network. This event is co-organised by **Université Paris-Saclay (UPSaclay)** and **Institut Polytechnique de Paris (IPP)**.  
 
-- **Date and Location:** 3 October 2025, at Télécom Paris  
+- **Date and Location:** 3 October 2025, at [Télécom Paris]({{ "/practicalInformations" | relative_url }})
 - **Registration:** [Register here](https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t) before 26 September 2025  
+- **[Program]({{ "/program" | relative_url }})**
 
 We invite **second-year Master's students** and **first/second-year PhD students** from UPSaclay and IPP to submit extended abstracts and present their current research at JWOC 2025. Ongoing work with preliminary results is highly encouraged.  
 
