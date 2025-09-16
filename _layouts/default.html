@@ -27,25 +27,31 @@
       {% endif %}
     </header>
 
-    <nav id='menu'>
-    <ul>
-      <li><a href='https://jwoc-2025.github.io/'>General Information</a></li>
-      <li><a href='https://jwoc-2025.github.io/callPapers'>Call for Papers</a></li>
-      <li><a class='dropdown-arrow' href='http://'>Program</a>
-        <ul class='sub-menus'>
-          <li><a href='https://jwoc-2025.github.io/speakers'>Keynotes</a></li>
-          <li><a href='https://jwoc-2025.github.io/program'>Program</a></li>
-        </ul>
-      </li>
-      <li><a class='dropdown-arrow' href='http://'>Conference Venue</a>
-      <ul class='sub-menus'>
-        <li><a href='https://jwoc-2025.github.io/registration'>Registration</a></li>
-        <li><a href='https://jwoc-2025.github.io/practicalInformations'>Practical Information</a></li>
+    <nav id="menu">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">General Information</a></li>
+        <li><a href="{{ '/callPapers' | relative_url }}">Call for Papers</a></li>
+    
+        <li>
+          <a class="dropdown-arrow" href="#" onclick="return false;" aria-haspopup="true" aria-expanded="false">Program</a>
+          <ul class="sub-menus">
+            <li><a href="{{ '/speakers' | relative_url }}">Keynotes</a></li>
+            <li><a href="{{ '/program' | relative_url }}">Program</a></li>
+          </ul>
+        </li>
+    
+        <li>
+          <a class="dropdown-arrow" href="#" onclick="return false;" aria-haspopup="true" aria-expanded="false">Conference Venue</a>
+          <ul class="sub-menus">
+            <li><a href="{{ '/registration' | relative_url }}">Registration</a></li>
+            <li><a href="{{ '/practicalInformations' | relative_url }}">Practical Information</a></li>
+          </ul>
+        </li>
+    
+        <li><a href="{{ '/organisation' | relative_url }}">Organisation Committee</a></li>
       </ul>
-    </li>
-      <li><a href='https://jwoc-2025.github.io/organisation'>Organisation Commitee</a></li>
-   </ul>
-</nav>
+    </nav>
+    
 
     <main id="content" class="main-content" role="main">
       {{ content }}
