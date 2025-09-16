@@ -19,7 +19,7 @@
   - *FIT-IRSA: Feedback-Integrated Two-Phase IRSA with Deep Reinforcement Learning*  
     . Andrei Stirbu, Cédric Adjih
 
-- **12:00** — Lunch
+- **12:00** — Lunch 
 
 **Afternoon**
 
