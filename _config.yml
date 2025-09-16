@@ -1,7 +1,7 @@
 # [CA: sept 2025 - version cleaned by LLM:]
 # --- Site basics ---
 title: "Junior Conference on Wireless and Optical Communication (JWOC)"
-description: "The conference will be held on the 3rd of October 2025, at Télécom Paris."
+description: "JWOC 2025, held on the 3rd of October 2025, at Télécom Paris."
 url: "https://jwoc-2025.github.io"   # no trailing slash
 baseurl: ""                          # for project site at the root; set to "/<repo>" if needed
 
