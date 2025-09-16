@@ -117,7 +117,28 @@
 // h1, h2, h3, h4, h5, h6 {
 // 	color: #c0392b; /* warm red or use your preferred color */
 //   }
-  
+/* One color for all headings in the content area */
+:root { --heading-color: #c0392b; }
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: var(--heading-color);
+}
+
+/* If headings contain links, keep them the same color */
+.main-content h1 a,
+.main-content h2 a,
+.main-content h3 a,
+.main-content h4 a,
+.main-content h5 a,
+.main-content h6 a {
+  color: inherit;
+  text-decoration: none;
+}
 
 @media screen and (max-width: 800px){
 	#menu {position:relative}
